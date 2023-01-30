@@ -17,12 +17,6 @@
 
 
 
-## Oiii eu sou a Robson Rissato, SysAdmin e Desenvolvedor de tecnologia!
-
-
-
-
-
 
 ![Snake animation](https://github.com/robsonwr/robsonwr/blob/main/github-contribution-grid-snake.svg)
 <div align="center">
