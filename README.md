@@ -1,6 +1,6 @@
 ## Oiii eu sou a Robson Rissato, SysAdmin e Desenvolvedor de tecnologia!
 <div align="center">
-  ![Snake animation](https://github.com/robsonwr/robsonwr/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation]([https://github.com/robsonwr/robsonwr/blob/main/github-contribution-grid-snake.svg])
   
   ![github contribution grid snake animation]([https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake-dark.svg](https://github.com/robsonwr/robsonwr/blob/main/github-contribution-grid-snake.svg)#gh-dark-mode-only)![github contribution grid snake animation]([https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake.svg](https://github.com/robsonwr/robsonwr/blob/main/github-contribution-grid-snake.svg)#gh-light-mode-only)
   
